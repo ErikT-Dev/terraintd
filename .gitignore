@@ -3,7 +3,7 @@
 
 # Allow the core folder and its subfolders
 !core/
-
+!core/**
 
 # Also allow these files
 !.gitignore
